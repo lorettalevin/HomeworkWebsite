@@ -1,0 +1,29 @@
+body {
+    color: blue;
+    background-color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+ }
+p {color: red}
+h3 {
+    color: purple;
+    text-transform: uppercase;
+}
+
+#box-section {
+    border: 1px dotted red;
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    border: 1px dotted green;
+    margin: 8px;
+    padding: 10px;
+    background-color: cyan;
+    text-align: center;
+
+}
